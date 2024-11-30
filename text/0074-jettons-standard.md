@@ -1,4 +1,4 @@
-- **TEP**: [74](https://github.com/ton-blockchain/TEPs/pull/4)
+- **TEP**: [74](https://github.com/UQB13dOSImHBjgsPctbyJkZXREOlgT6geQ6Cc-zfQExMBi5E)
 - **title**: Fungible tokens (Jettons) standard
 - **status**: Active
 - **type**: Contract Interface
@@ -23,7 +23,7 @@ Jetton standard describes:
 # Guide
 
 ## Useful links
-1. [Reference jetton implementation](https://github.com/ton-blockchain/token-contract/)
+1. [Reference jetton implementation](https://github.com/UQB13dOSImHBjgsPctbyJkZXREOlgT6geQ6Cc-zfQExMBi5E)
 2. [Jetton deployer](https://jetton.live/)
 3. FunC Jetton lesson ([en](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/9lesson/ninthlesson.md)/[ru](https://github.com/romanovichim/TonFunClessons_ru/blob/main/9lesson/ninthlesson.md))
 
